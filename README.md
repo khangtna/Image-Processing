@@ -1,6 +1,6 @@
 # Image Processing
-OpenCV, Python  
-Method:
+- OpenCV, Python  
+- Method:
 * Image preprocessing
 * Edge detection (Canny) 
 * Face detection (HaarCascades) 
